@@ -2,10 +2,10 @@
 Universidad Virtual del Estado de Guanajuato.
 Módulo: Tópicos Avanzados de Programación.
 Reto 5. Programación Concurrente e Hilos.
-Nombre: Julio Arturo Córdova Cú.
-Matrícula: 23028189.
-Nombre del Asesor: Andrés Espinal Jiménez.
-Fecha de Elaboración: 24/03/2025
+Nombre: .
+Matrícula: .
+Nombre del Asesor: .
+Fecha de Elaboración: / / .
 */
 package carreraatletica;
 
